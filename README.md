@@ -88,7 +88,7 @@ SPARC will be tested on deliberately vulnerable code, including AI-generated sam
 
 ## License
 
-MIT (to be confirmed).
+MIT
 
 ## Author
 
