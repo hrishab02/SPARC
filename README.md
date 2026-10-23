@@ -5,7 +5,6 @@
 A local-first tool that scans a project folder with open-source security scanners, merges the results into one clean list, and tells you which risks to fix first.
 
 > **Status: 🚧 In development (Milestone 0: project setup).**
-> This is a learning and portfolio project. Everything under "What it does" is planned, not finished, until its roadmap box is checked.
 
 ---
 
