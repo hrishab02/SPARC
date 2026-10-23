@@ -1,0 +1,30 @@
+{
+  "name": "sparc",
+  "version": "1.0.0",
+  "description": "**S**can, **P**rioritize **A**nd **R**esolve risks in **C**ode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrishab02/SPARC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hrishab02/SPARC/issues"
+  },
+  "homepage": "https://github.com/hrishab02/SPARC#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typecript": "^0.0.1-security",
+    "vitest": "^5.0.5"
+  },
+  "dependencies": {
+    "typescript": "^7.0.2"
+  }
+}
